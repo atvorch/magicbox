@@ -1,9 +1,10 @@
 
 .animate {
-	font-size: 40px;
+    font-size: 40px;
     cursor: default;
     user-select: none;
-    margin-left: 30px;
+    display: flex;
+    flex-wrap: nowrap;
 }
 
 .animate span {
@@ -15,7 +16,8 @@
     text-shadow: 0px 0px 2px #000000;
     text-transform: uppercase;
     font-family: sans-serif; 
-       
+    display: flex;
+    flex-wrap: nowrap;
 }
 .animate span:hover {
     transform: scale(1.2);
