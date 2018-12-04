@@ -1,0 +1,146 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+body * {
+  box-sizing: border-box;
+}
+.magicBox {
+  height: calc(100% - 40px);
+  padding: 30px;
+  width: 80vw;
+  display: flex;
+  margin: 20px auto;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 20px;
+  background: #e3e3e3;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  position: relative;
+}
+.content {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+}
+.select {
+  height: 30px;
+  font-size: 1rem;
+  border-radius: 0;
+  width: 200px;
+  background: white;
+  text-transform: uppercase;
+}
+
+.pictures {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  overflow: hidden;
+  height: 100%;
+}
+
+.poligon {
+  width: 100%;
+  height: 100%;
+}
+.svgContainer {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+.svgContainer svg {
+  height: 100%;
+  width: 100%;
+}
+.svgContainer polygon,
+.svgContainer path
+{
+  stroke-width: 1px;
+}
+
+.palitra {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 30px;
+  padding: 8px;
+}
+
+.current_color {
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  width: 50px;
+  height: 50px;
+  box-shadow: 0 1px 5px 0px #bcbcbc;
+}
+.color {
+  width: 50px;
+  position: relative;
+  height: 50px;
+  cursor: pointer;
+  border-radius: 100%;
+  box-shadow: 0 1px 5px 0px #bcbcbc;
+  overflow: hidden;
+  transition: 0.1s;
+}
+/* .color:after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  right: 0;
+  background: #000000;
+  opacity: 0.5;
+  transition: 0.2s;
+}
+.color:hover:after {
+  opacity: 0;
+} */
+
+.color:hover {
+  box-shadow: 0 1px 7px 2px #9e9e9e;
+    transform: scale(1.2);
+    z-index: 1;
+}
+
+.color:active {
+  transform: scale(1.1);
+}
+
+.color:not(:last-child) {
+  margin-bottom: 10px;
+}
+.red {
+  background-color: red;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background: blue;
+}
+.yellow {
+  background-color: yellow;
+}
+.brown {
+  background: brown;
+}
+.pink {
+  background: pink;
+}
+.black {
+  background: black;
+}
+.white {
+  background: white;
+}

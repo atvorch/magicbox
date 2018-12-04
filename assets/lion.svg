@@ -1,0 +1,458 @@
+
+<svg viewBox="0 0 558 632" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path d="M62.4,110 L23,137.4 L40,169.1 C43.1,175.9 46.1,182.8 48.5,190 C48.8,190.9 50.2,190.5 49.9,189.6 C49.2,187.5 48.4,185.4 47.6,183.3 L51.6,190.7 L57.7,144.9 L62.4,110 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="0.5 364.4 21.1 360.4 33.9 318.8"></polygon>
+    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="9.8 317.5 33.9 318.8 48.9 270.2"></polygon>
+    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="245.1 631.3 268.1 598.2 245.1 552.5 215.7 581.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="312.9 631.3 342.3 581.8 312.9 552.5 289.9 598.2"></polygon>
+    <path d="M140.8,474.2 C139.8,474.2 139.8,475.7 140.8,475.7 C141.8,475.6 141.8,474.2 140.8,474.2 Z" id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <path d="M274.5,461.4 C273.5,461.4 273.5,462.9 274.5,462.9 C275.5,462.8 275.5,461.4 274.5,461.4 Z" id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="227.5 456.8 227.5 467.9 241 463.5 265.7 454.8 279 452.9 279 436.5 253.4 454.8 238.9 460.3"></polygon>
+    <path d="M222.5,265.7 C222.5,265.7 224.5,263.1 228.1,264.8 L220.7,290.2 L222.5,265.7 Z" id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="228 264.9 230.6 288.2 220.6 290.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="222.5 265.7 211.7 278.3 220.6 290.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="211.7 278.3 208.1 265.4 222.5 265.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="208.1 265.4 193.1 271.5 211.7 278.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="193.1 271.5 194.7 253.3 208.1 265.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="194.7 253.3 187.2 256.6 193.1 271.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="228 264.9 243.5 264.9 231.8 243.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="228 264.9 235.6 282.4 243.5 264.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="224.7 358.9 217.5 381.4 244 390.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="258 372 279 366.8 279 376.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="229.1 370.7 224.7 358.9 234.1 358.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="234.1 358.9 244.7 375.3 245.7 383.4 229.1 370.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="234.1 358.9 258 372 244.7 375.3"></polygon>
+    <path d="M244.7,375.3 L258,372 L279,376.5 L279,425.1 L269,405.3 L257.7,392.6 L244,390.5 C244,390.5 230.7,377.7 229.1,370.7 L233,368.1 C233,368.1 243.1,381.6 245.7,383.4 L244.7,375.3 Z" id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <path d="M244.7,375.3 C244.7,375.3 273,376.5 269.2,405.9 L278.9,411.4 L278.9,376.5 L257.9,372 L244.7,375.3 Z" id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="253.4 454.8 241.3 416 268.5 444"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="241.3 416 279 436.5 268.5 444"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="241.3 416 279 425.1 279 436.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="241.3 416 269.3 405.9 279 425.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="241.3 416 257.7 392.6 269.3 405.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="241.3 416 238.9 460.3 253.4 454.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="241.3 416 244 390.5 257.7 392.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="241.3 416 238.9 460.3 214.8 454"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="241.3 416 217.5 381.4 244 390.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="241.3 416 206 436.5 214.8 454"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="241.3 416 199.4 415.5 206 436.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="241.3 416 200.7 390.5 217.5 381.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="241.3 416 200.7 390.5 199.4 415.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="241 463.5 218.4 498.9 238.2 492.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="238.2 492.9 265.7 454.8 253.9 503"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="265.7 454.8 241 463.5 238.2 492.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="241 463.5 227.5 467.9 218.4 498.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="265.7 454.8 269.3 506.3 253.9 503"></polygon>
+    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="238.2 492.9 240 517.6 253.9 503"></polygon>
+    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="269.3 506.3 279 452.9 279 519.9"></polygon>
+    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="253.9 503 259.3 523 269.3 506.3"></polygon>
+    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="269.3 506.3 265.7 454.8 279 452.9"></polygon>
+    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="231.8 243.5 230.6 221.6 260.5 206.7"></polygon>
+    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="204.6 363.3 200.7 341.2 186.7 352"></polygon>
+    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="186.7 352 200.7 390.5 204.6 363.3"></polygon>
+    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="260.5 206.7 237.6 189.2 244.1 214.9"></polygon>
+    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="180.3 226.6 164.7 265.5 179.1 259.8"></polygon>
+    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="180.3 226.6 203.2 198.8 195.3 224.2"></polygon>
+    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="186.6 249.2 193.1 237.8 202.4 242.4"></polygon>
+    <polygon id="path-1" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="193.1 237.8 212.8 231.3 202.4 242.4"></polygon>
+    <polygon id="path-2" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="212.8 231.3 220.6 242.4 202.4 242.4"></polygon>
+    <polygon id="path-3" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="212.8 231.3 231.8 243.5 220.6 242.4"></polygon>
+    <polygon id="path-4" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="231.8 243.5 229.6 256.2 220.6 242.4"></polygon>
+    <path d="M187.2,256.6 L186.6,249.2 L205.4,241.1 C205.4,241.1 221.7,233 229.5,256.3 L228,265 C228,265 225.6,263.9 222.4,265.8 C219.2,267.7 206.8,270.8 194.6,253.4 L187.2,256.6 Z" id="path-5" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <path d="M213.8,248.1 C219,248.1 223.3,251.5 224.7,256.3 C225,255.3 225.2,254.2 225.2,253.1 C225.2,246.8 220.1,241.7 213.8,241.7 C207.5,241.7 202.4,246.8 202.4,253.1 C202.4,254.2 202.6,255.3 202.9,256.3 C204.3,251.6 208.6,248.1 213.8,248.1 Z" id="path-6" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <path d="M213.8,264.4 C219,264.4 223.3,261 224.7,256.2 C223.3,251.5 219,248 213.8,248 C208.6,248 204.3,251.4 202.9,256.2 C204.3,261 208.6,264.4 213.8,264.4 Z" id="path-7" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <path d="M216.8,251.1 C216.8,252.8 215.4,254.1 213.8,254.1 C212.1,254.1 210.8,252.7 210.8,251.1 C210.8,249.4 212.2,248.1 213.8,248.1 C215.5,248.1 216.8,249.4 216.8,251.1 Z" id="path-8" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <polygon id="path-9" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="203.2 198.8 237.6 189.2 240.7 201.3"></polygon>
+    <polygon id="path-10" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="180.3 226.6 193.1 237.8 195.3 224.2"></polygon>
+    <polygon id="path-11" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="180.3 226.6 186.6 249.2 193.1 237.8"></polygon>
+    <polygon id="path-12" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="180.3 226.6 186.6 249.2 187.2 256.6 179.1 259.8"></polygon>
+    <polygon id="path-13" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="203.2 198.8 216.8 212.7 195.3 224.2"></polygon>
+    <polygon id="path-14" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="216.8 212.7 240.7 201.3 244.1 214.9"></polygon>
+    <polygon id="path-15" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="216.8 212.7 230.6 221.6 244.1 214.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="216.8 212.7 203.2 198.8 240.7 201.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="195.3 224.2 212.8 231.3 193.1 237.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="212.8 231.3 230.6 221.6 231.8 243.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="212.8 231.3 216.8 212.7 230.6 221.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="212.8 231.3 216.8 212.7 195.3 224.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="211.7 278.3 188.8 296.5 220.6 290.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="230.6 288.2 207 317.8 188.8 296.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="188.8 296.5 200.7 341.2 207 317.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="230.6 288.2 204.6 363.3 200.7 341.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="230.6 288.2 200.7 341.2 207 317.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="164.7 265.5 179.1 312.6 167.7 331.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="193.1 271.5 188.8 296.5 211.7 278.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="187.2 256.6 193.1 271.5 164.7 265.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="193.1 271.5 188.8 296.5 164.7 265.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="188.8 296.5 167.7 331.8 200.7 341.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="200.7 341.2 186.7 352 167.7 331.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="167.7 331.8 200.7 390.5 186.7 352"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="164.7 265.5 188.8 296.5 179.1 312.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="260.5 206.7 279 189.6 279 209.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="260.5 206.7 279 231.3 279 209.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="260.5 206.7 253.2 244.6 279 231.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 189.6 260.5 151.8 279 169.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="260.5 151.8 260.5 206.7 279 189.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="260.5 151.8 266.4 124.2 279 169.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="253.2 244.6 231.8 243.5 243.5 264.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="203.2 198.8 175 208 180.3 226.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="180.3 226.6 153.2 248.6 164.7 265.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 231.3 279 268.3 267.2 237.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="260.5 151.8 237.6 189.2 260.5 206.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="266.4 124.2 279 134.8 279 169.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="203.2 198.8 194.6 161.5 175 208"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="237.6 189.2 233.7 163.5 194.6 161.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="237.6 189.2 233.7 163.5 244.7 144.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="194.6 161.5 237.6 189.2 203.2 198.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="231.8 243.5 253.2 244.6 260.5 206.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="253.2 244.6 279 268.3 267.2 237.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="253.2 244.6 251.2 266.5 243.5 264.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="251.2 266.5 244.2 302.4 235.6 282.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="228 264.9 244.2 302.4 230.6 288.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="230.6 288.2 227 326.3 244.2 302.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="251.2 266.5 235.6 282.4 243.5 264.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="237.6 189.2 244.7 144.9 260.5 151.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 366.8 253.4 353.7 279 343.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 343.9 262.5 325 279 320"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="262.5 325 253.4 353.7 279 343.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="253.4 353.7 258 372 279 366.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="262.5 325 279 296.5 279 320"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="230.6 288.2 227 326.3 204.6 363.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="227 326.3 224.7 358.9 204.6 363.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="224.7 358.9 217.5 381.4 204.6 363.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="224.7 358.9 244.2 302.4 227 326.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 296.5 255.9 293.4 262.5 325"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="253.4 353.7 258 372 234.1 358.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="262.5 325 244.2 302.4 255.9 293.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="262.5 325 253.4 353.7 234.1 358.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="255.9 293.4 251.2 266.5 244.2 302.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="262.5 325 224.7 358.9 244.2 302.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="255.9 293.4 279 268.3 279 296.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 268.3 251.2 266.5 255.9 293.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 268.3 253.2 244.6 251.2 266.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="234.1 358.9 224.7 358.9 262.5 325"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="266.4 124.2 279 86.2 279 134.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 86.2 248.2 64.3 279 47.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="248.2 64.3 248.3 64.1 264.3 0.9 279 47.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="266.4 124.2 279 86.2 248.2 64.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="260.5 151.8 245.4 106.7 244.7 144.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="244.7 144.9 208.1 122.4 233.7 163.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="266.4 124.2 245.4 106.7 248.2 64.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="233.7 163.5 168.5 120.2 194.6 161.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="194.6 161.5 136 151.1 107 226.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="244.7 144.9 245.4 106.7 211.3 69.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="233.7 163.5 168.5 120.2 208.1 122.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="260.5 151.8 266.4 124.2 245.4 106.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="211.3 69.7 208.1 122.4 244.7 144.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="194.6 161.5 124.7 113.2 93.8 143.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="175 208 144.2 198.8 180.3 226.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="180.3 226.6 153.2 248.6 88.4 265.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="164.7 265.5 88.4 265.8 135.3 304.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="144.2 198.8 146.2 241.1 88.4 265.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="175 208 194.6 161.5 144.2 198.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="164.7 265.5 167.7 331.8 135.3 304.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="167.7 331.8 199.4 415.5 200.7 390.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="167.7 331.8 102.3 394.7 180.7 366.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="144.2 198.8 180.3 226.6 146.2 241.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="153.2 248.6 164.7 265.5 88.4 265.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="208.1 122.4 168.9 81.8 168.5 120.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="124.7 113.2 94.5 55.4 168.5 120.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="211.3 69.7 168.9 81.8 149.1 8.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="248.2 64.3 208.6 0 212.5 40.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="220.6 19.5 259.6 19.5 248.2 64.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="105.5 76.5 62.4 110 43.2 81.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="62.4 110 51.6 190.6 93.8 143.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="124.7 113.2 105.5 76.5 62.4 110"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="48.9 270.2 48.9 391.5 21.1 360.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="48.9 270.2 82.8 348.3 48.9 339.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="48.9 270.2 167.7 331.8 88.4 265.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="136 151.1 78 219.1 107 226.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="48.9 270.2 144.2 198.8 88.4 265.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="48.9 270.2 77.2 284.9 63.5 303.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="48.9 270.2 78 219.1 107 226.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="63.5 303.9 104.9 299.2 77.2 284.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="104.9 299.2 82.8 348.3 63.5 303.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="104.9 299.2 167.7 331.8 82.8 348.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="167.7 331.8 102.3 394.7 82.8 348.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="51.6 190.6 78 219.1 48.9 270.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="51.6 190.6 136 151.1 93.8 143.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="51.6 190.6 136 151.1 78 219.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="51.6 190.6 13.7 274.5 48.9 270.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="62.4 110 23 137.4 57.8 144.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="23 137.4 51.6 190.6 57.8 144.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="94.5 55.4 168.9 81.8 168.5 120.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="212.5 40.5 245.4 106.7 248.2 64.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="212.5 40.5 211.3 69.7 245.4 106.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="124.7 113.2 93.8 143.6 62.4 110"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="168.9 81.8 125.2 34.9 157.1 38.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="212.5 40.5 149.1 8.7 211.3 69.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="208.1 122.4 168.9 81.8 211.3 69.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="168.5 120.2 194.6 161.5 124.7 113.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="82.8 348.3 48.9 391.5 75.6 427"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="46.1 501.8 104.6 461.7 75.6 427"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="82.8 348.3 102.3 394.7 75.6 427"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="75.6 427 48.9 391.5 28.5 462.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="82.8 348.3 48.9 339.4 48.9 391.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="102.3 394.7 104.6 461.7 75.6 427"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="102.3 394.7 121.3 437.3 104.6 461.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="102.3 394.7 180.7 366.2 121.3 437.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="21.1 360.4 7 443.6 48.9 391.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="21.1 360.4 0.5 364.4 33.9 318.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="48.9 270.2 9.8 317.5 33.9 318.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="180.7 366.2 199.4 415.5 121.3 437.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="199.4 415.5 145.9 472.7 121.3 437.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="206 436.5 202.3 488.2 214.8 454"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="202.3 488.2 227.5 467.9 227.5 457.3 214.8 454"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="199.4 415.5 206 436.5 145.9 472.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="240 517.6 245.1 552.5 259.3 523"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="259.3 523 253.9 503 240 517.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="240 517.6 245.1 552.5 197 544.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="202.3 488.2 206 436.5 145.9 472.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="121.3 437.3 145.9 472.7 104.6 461.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="104.6 461.7 130.4 495.7 145.9 472.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="197 544.1 180 617.6 245.1 552.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="245.1 552.5 279 619.7 279 551.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="245.1 552.5 245.1 631.3 268.1 598.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="145.9 472.7 178.1 516.7 202.3 488.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="259.3 523 279 519.9 269.3 506.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="259.3 523 279 551.9 245.1 552.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="245.1 552.5 215.7 581.8 245.1 631.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="259.3 523 279 519.9 279 551.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="238.2 492.9 240 517.6 218.4 498.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="227.5 467.9 218.4 498.9 202.3 488.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="145.9 472.7 144.5 554.9 178.1 516.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="202.3 488.2 197 544.1 218.4 498.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="104.6 461.7 80.7 526.4 130.4 495.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="218.4 498.9 240 517.6 197 544.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="202.3 488.2 197 544.1 178.1 516.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="145.9 472.7 113.7 582.2 144.5 554.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="144.5 554.9 180 617.6 197 544.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="145.9 472.7 103.9 535 113.7 582.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="178.1 516.7 197 544.1 144.5 554.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="104.6 461.7 76.7 480.8 80.7 526.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="144.5 554.9 155.6 619.9 169.7 599.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="217.5 381.4 204.6 363.3 200.7 390.5"></polygon>
+    <path d="M417.2,474.2 C418.2,474.2 418.2,475.7 417.2,475.7 C416.2,475.6 416.2,474.2 417.2,474.2 Z" id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <path d="M283.5,461.4 C284.5,461.4 284.5,462.9 283.5,462.9 C282.5,462.8 282.5,461.4 283.5,461.4 Z" id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="330.5 456.8 330.5 467.9 317 463.5 292.3 454.8 279 452.9 279 436.5 304.6 454.8 319.1 460.3"></polygon>
+    <path d="M335.6,265.7 C335.6,265.7 333.6,263.1 330,264.8 L337.4,290.2 L335.6,265.7 Z" id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="330 264.9 327.4 288.2 337.4 290.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="335.6 265.7 346.3 278.3 337.4 290.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="346.3 278.3 349.9 265.4 335.6 265.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="349.9 265.4 364.9 271.5 346.3 278.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="364.9 271.5 363.4 253.3 349.9 265.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="363.4 253.3 370.8 256.6 364.9 271.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="330 264.9 314.5 264.9 326.2 243.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="330 264.9 322.4 282.4 314.5 264.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="333.3 358.9 340.5 381.4 314 390.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="300 372 279 366.8 279 376.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="328.9 370.7 333.3 358.9 323.9 358.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="323.9 358.9 313.3 375.3 312.3 383.4 328.9 370.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="323.9 358.9 300 372 313.3 375.3"></polygon>
+    <path d="M313.3,375.3 L300,372 L279,376.5 L279,425.1 L289,405.3 L300.3,392.6 L314,390.5 C314,390.5 327.3,377.7 328.9,370.7 L325,368.1 C325,368.1 314.9,381.6 312.3,383.4 L313.3,375.3 Z" id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <path d="M313.3,375.3 C313.3,375.3 285,376.5 288.8,405.9 L279.1,411.4 L279.1,376.5 L300.1,372 L313.3,375.3 Z" id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="304.6 454.8 316.7 416 289.5 444"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="316.7 416 279 436.5 289.5 444"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="316.7 416 279 425.1 279 436.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="316.7 416 288.7 405.9 279 425.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="316.7 416 300.3 392.6 288.7 405.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="316.7 416 319.1 460.3 304.6 454.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="316.7 416 314 390.5 300.3 392.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="316.7 416 319.1 460.3 343.2 454"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="316.7 416 340.5 381.4 314 390.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="316.7 416 352 436.5 343.2 454"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="316.7 416 358.6 415.5 352 436.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="316.7 416 357.3 390.5 340.5 381.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="316.7 416 357.3 390.5 358.6 415.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="317 463.5 339.6 498.9 319.8 492.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="319.8 492.9 292.3 454.8 304.1 503"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="292.3 454.8 317 463.5 319.8 492.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="317 463.5 330.5 467.9 339.6 498.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="292.3 454.8 288.7 506.3 304.1 503"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="319.8 492.9 318 517.6 304.1 503"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="288.7 506.3 279 452.9 279 519.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="304.1 503 298.7 523 288.7 506.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="288.7 506.3 292.3 454.8 279 452.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="326.2 243.5 327.4 221.6 297.5 206.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="353.4 363.3 357.3 341.2 371.3 352"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="371.3 352 357.3 390.5 353.4 363.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="297.5 206.7 320.4 189.2 313.9 214.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="377.7 226.6 393.3 265.5 378.9 259.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="377.7 226.6 354.8 198.8 362.7 224.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="371.4 249.2 364.9 237.8 355.6 242.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="364.9 237.8 345.2 231.3 355.6 242.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="345.2 231.3 337.4 242.4 355.6 242.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="345.2 231.3 326.2 243.5 337.4 242.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="326.2 243.5 328.4 256.2 337.4 242.4"></polygon>
+    <path d="M370.8,256.6 L371.4,249.2 L352.6,241.1 C352.6,241.1 336.3,233 328.5,256.3 L330,265 C330,265 332.4,263.9 335.6,265.8 C338.8,267.7 351.2,270.8 363.4,253.4 L370.8,256.6 Z" id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <path d="M344.2,248.1 C339,248.1 334.7,251.5 333.3,256.3 C333,255.3 332.8,254.2 332.8,253.1 C332.8,246.8 337.9,241.7 344.2,241.7 C350.5,241.7 355.6,246.8 355.6,253.1 C355.6,254.2 355.4,255.3 355.1,256.3 C353.7,251.6 349.4,248.1 344.2,248.1 Z" id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <path d="M344.2,264.4 C339,264.4 334.7,261 333.3,256.2 C334.7,251.5 339,248 344.2,248 C349.4,248 353.7,251.4 355.1,256.2 C353.7,261 349.4,264.4 344.2,264.4 Z" id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <path d="M341.2,251.1 C341.2,252.8 342.6,254.1 344.2,254.1 C345.9,254.1 347.2,252.7 347.2,251.1 C347.2,249.4 345.8,248.1 344.2,248.1 C342.5,248.1 341.2,249.4 341.2,251.1 Z" id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero"></path>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="354.8 198.8 320.4 189.2 317.3 201.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="377.7 226.6 364.9 237.8 362.7 224.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="377.7 226.6 371.4 249.2 364.9 237.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="377.7 226.6 371.4 249.2 370.8 256.6 378.9 259.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="354.8 198.8 341.2 212.7 362.7 224.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="341.2 212.7 317.3 201.3 313.9 214.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="341.2 212.7 327.4 221.6 313.9 214.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="341.2 212.7 354.8 198.8 317.3 201.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="362.7 224.2 345.2 231.3 364.9 237.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="345.2 231.3 327.4 221.6 326.2 243.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="345.2 231.3 341.2 212.7 327.4 221.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="345.2 231.3 341.2 212.7 362.7 224.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="346.3 278.3 369.2 296.5 337.4 290.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="327.4 288.2 351 317.8 369.2 296.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="369.2 296.5 357.3 341.2 351 317.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="327.4 288.2 353.4 363.3 357.3 341.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="327.4 288.2 357.3 341.2 351 317.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="393.3 265.5 378.9 312.6 390.4 331.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="364.9 271.5 369.2 296.5 346.3 278.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="370.8 256.6 364.9 271.5 393.3 265.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="364.9 271.5 369.2 296.5 393.3 265.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="369.2 296.5 390.4 331.8 357.3 341.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="357.3 341.2 371.3 352 390.4 331.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="390.4 331.8 357.3 390.5 371.3 352"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="393.3 265.5 369.2 296.5 378.9 312.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="297.5 206.7 279 189.6 279 209.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="297.5 206.7 279 231.3 279 209.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="297.5 206.7 304.8 244.6 279 231.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 189.6 297.5 151.8 279 169.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="297.5 151.8 297.5 206.7 279 189.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="297.5 151.8 291.6 124.2 279 169.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="304.8 244.6 326.2 243.5 314.5 264.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="354.8 198.8 383 208 377.7 226.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="377.7 226.6 404.8 248.6 393.3 265.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 231.3 279 268.3 290.8 237.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="297.5 151.8 320.4 189.2 297.5 206.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="291.6 124.2 279 134.8 279 169.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="354.8 198.8 363.4 161.5 383 208"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="320.4 189.2 324.3 163.5 363.4 161.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="320.4 189.2 324.3 163.5 313.3 144.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="363.4 161.5 320.4 189.2 354.8 198.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="326.2 243.5 304.8 244.6 297.5 206.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="304.8 244.6 279 268.3 290.8 237.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="304.8 244.6 306.8 266.5 314.5 264.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="306.8 266.5 313.8 302.4 322.4 282.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="330 264.9 313.8 302.4 327.4 288.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="327.4 288.2 331.1 326.3 313.8 302.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="306.8 266.5 322.4 282.4 314.5 264.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="320.4 189.2 313.3 144.9 297.5 151.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 366.8 304.6 353.7 279 343.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 343.9 295.5 325 279 320"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="295.5 325 304.6 353.7 279 343.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="304.6 353.7 300 372 279 366.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="295.5 325 279 296.5 279 320"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="327.4 288.2 331.1 326.3 353.4 363.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="331.1 326.3 333.3 358.9 353.4 363.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="333.3 358.9 340.5 381.4 353.4 363.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="333.3 358.9 313.8 302.4 331.1 326.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 296.5 302.1 293.4 295.5 325"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="304.6 353.7 300 372 323.9 358.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="295.5 325 313.8 302.4 302.1 293.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="295.5 325 304.6 353.7 323.9 358.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="302.1 293.4 306.8 266.5 313.8 302.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="295.5 325 333.3 358.9 313.8 302.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="302.1 293.4 279 268.3 279 296.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 268.3 306.8 266.5 302.1 293.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 268.3 304.8 244.6 306.8 266.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="323.9 358.9 333.3 358.9 295.5 325"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="291.6 124.2 279 86.2 279 134.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="279 86.2 309.8 64.3 279 47.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="309.8 64.3 309.7 64.1 293.7 0.9 279 47.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="291.6 124.2 279 86.2 309.8 64.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="297.5 151.8 312.6 106.7 313.3 144.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="313.3 144.9 349.9 122.4 324.3 163.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="291.6 124.2 312.6 106.7 309.8 64.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="324.3 163.5 389.5 120.2 363.4 161.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="363.4 161.5 422 151.1 451 226.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="313.3 144.9 312.6 106.7 346.7 69.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="324.3 163.5 389.5 120.2 349.9 122.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="297.5 151.8 291.6 124.2 312.6 106.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="346.7 69.7 349.9 122.4 313.3 144.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="363.4 161.5 433.3 113.2 464.2 143.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="383 208 413.8 198.8 377.7 226.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="377.7 226.6 404.8 248.6 469.6 265.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="393.3 265.5 469.6 265.8 422.7 304.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="413.8 198.8 411.8 241.1 469.6 265.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="383 208 363.4 161.5 413.8 198.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="393.3 265.5 390.4 331.8 422.7 304.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="390.4 331.8 358.6 415.5 357.3 390.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="390.4 331.8 455.7 394.7 377.3 366.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="413.8 198.8 377.7 226.6 411.8 241.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="404.8 248.6 393.3 265.5 469.6 265.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="349.9 122.4 389.1 81.8 389.5 120.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="433.3 113.2 463.5 55.4 389.5 120.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="346.7 69.7 389.1 81.8 408.9 8.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="309.8 64.3 349.4 0 345.5 40.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="337.4 19.5 298.4 19.5 309.8 64.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="452.5 76.5 495.6 110 514.8 81.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="495.6 110 506.4 190.6 464.2 143.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="433.3 113.2 452.5 76.5 495.6 110"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="509.1 270.2 509.1 391.5 536.9 360.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="509.1 270.2 475.2 348.3 509.1 339.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="509.1 270.2 390.4 331.8 469.6 265.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="422 151.1 480 219.1 451 226.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="509.1 270.2 413.8 198.8 469.6 265.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="509.1 270.2 480.8 284.9 494.5 303.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="509.1 270.2 480 219.1 451 226.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="494.5 303.9 453.1 299.2 480.8 284.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="453.1 299.2 475.2 348.3 494.5 303.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="453.1 299.2 390.4 331.8 475.2 348.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="390.4 331.8 455.7 394.7 475.2 348.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="506.4 190.6 480 219.1 509.1 270.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="506.4 190.6 422 151.1 464.2 143.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="506.4 190.6 422 151.1 480 219.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="506.4 190.6 544.3 274.5 509.1 270.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="495.6 110 535 137.4 500.2 144.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="535 137.4 506.4 190.6 500.2 144.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="463.5 55.4 389.1 81.8 389.5 120.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="345.5 40.5 312.6 106.7 309.8 64.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="345.5 40.5 346.7 69.7 312.6 106.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="433.3 113.2 464.2 143.6 495.6 110"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="389.1 81.8 432.8 34.9 400.9 38.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="345.5 40.5 408.9 8.7 346.7 69.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="349.9 122.4 389.1 81.8 346.7 69.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="389.5 120.2 363.4 161.5 433.3 113.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="475.2 348.3 509.1 391.5 482.4 427"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="511.9 501.8 453.4 461.7 482.4 427"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="475.2 348.3 455.7 394.7 482.4 427"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="482.4 427 509.1 391.5 529.5 462.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="475.2 348.3 509.1 339.4 509.1 391.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="455.7 394.7 453.4 461.7 482.4 427"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="455.7 394.7 436.7 437.3 453.4 461.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="455.7 394.7 377.3 366.2 436.7 437.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="536.9 360.4 551 443.6 509.1 391.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="536.9 360.4 557.5 364.4 524.1 318.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="509.1 270.2 548.2 317.5 524.1 318.8"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="377.3 366.2 358.6 415.5 436.7 437.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="358.6 415.5 412.1 472.7 436.7 437.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="352 436.5 355.7 488.2 343.2 454"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="355.7 488.2 330.5 467.9 330.5 457.3 343.2 454"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="358.6 415.5 352 436.5 412.1 472.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="318 517.6 312.9 552.5 298.7 523"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="298.7 523 304.1 503 318 517.6"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="318 517.6 312.9 552.5 361 544.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="355.7 488.2 352 436.5 412.1 472.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="436.7 437.3 412.1 472.7 453.4 461.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="453.4 461.7 427.6 495.7 412.1 472.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="361 544.1 378.1 617.6 312.9 552.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="312.9 552.5 279 619.7 279 551.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="312.9 552.5 312.9 631.3 289.9 598.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="412.1 472.7 379.9 516.7 355.7 488.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="298.7 523 279 519.9 288.7 506.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="298.7 523 279 551.9 312.9 552.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="312.9 552.5 342.3 581.8 312.9 631.3"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="298.7 523 279 519.9 279 551.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="319.8 492.9 318 517.6 339.6 498.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="330.5 467.9 339.6 498.9 355.7 488.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="412.1 472.7 413.5 554.9 379.9 516.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="355.7 488.2 361 544.1 339.6 498.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="453.4 461.7 477.3 526.4 427.6 495.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="339.6 498.9 318 517.6 361 544.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="355.7 488.2 361 544.1 379.9 516.7"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="412.1 472.7 444.3 582.2 413.5 554.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="413.5 554.9 378.1 617.6 361 544.1"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="412.1 472.7 454.1 535 444.3 582.2"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="379.9 516.7 361 544.1 413.5 554.9"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="453.4 461.7 481.3 480.8 477.3 526.4"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="413.5 554.9 402.4 619.9 388.3 599.5"></polygon>
+    <polygon id="Shape" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" points="340.5 381.4 353.4 363.3 357.3 390.5"></polygon>
+</svg>

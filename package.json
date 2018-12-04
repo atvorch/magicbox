@@ -1,0 +1,19 @@
+{
+  "name": "magicbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "gulp dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atvorch/magicbox/issues"
+  },
+  "homepage": "https://github.com/atvorch/magicbox#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1"
+  }
+}
