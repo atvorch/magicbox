@@ -6,21 +6,26 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="animated-text.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
 <body>
     <main class="magicBox">
       <header>
-          <h1>MagicBox</h1>
+          <div id="current_color" class="current_color"></div>
+          <div class="animate two">
+            <span>M</span><span>a</span><span>g</span><span>i</span><span>c</span>
+            <span>B</span><span>o</span><span>x</span>
+          </div>
           <select id="select" class="select" onchange="loadSvg()">
-            <option>Select the picture</option>
-            <option value="lion">Lion</option>
+            <option disabled>Select the picture</option>
+            <option value="lion" selected="selected">Lion</option>
             <option value="pony">Pony</option>
           </select>
       </header>
       <div class="content">
         <div class="palitra">
-          <div id="current_color" class="current_color"></div>
+        
           <div class="colors">
               <div class="color blue" title="blue"></div>
               <div class="color yellow" title="yellow"></div>

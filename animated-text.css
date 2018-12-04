@@ -1,0 +1,70 @@
+
+.animate {
+	font-size: 40px;
+    cursor: default;
+    user-select: none;
+    margin-left: 30px;
+}
+
+.animate span {
+	color: #ff00b0;
+	transform: translate(200px, -100px) scale(2);
+	animation: ballDrop .3s forwards;
+    display: inline-block;
+    opacity: 0;
+    text-shadow: 0px 0px 2px #000000;
+    text-transform: uppercase;
+    font-family: sans-serif; 
+       
+}
+.animate span:hover {
+    transform: scale(1.2);
+}
+.animate span:nth-of-type(2) {
+	animation-delay: .05s;
+}
+.animate span:nth-of-type(3) {
+	animation-delay: .1s;
+}
+.animate span:nth-of-type(4) {
+	animation-delay: .15s;
+}
+.animate span:nth-of-type(5) {
+	animation-delay: .2s;
+}
+.animate span:nth-of-type(6) {
+	animation-delay: .25s;
+}
+.animate span:nth-of-type(7) {
+	animation-delay: .3s;
+}
+.animate span:nth-of-type(8) {
+	animation-delay: .35s;
+}
+.animate span:nth-of-type(9) {
+	animation-delay: .4s;
+}
+.animate span:nth-of-type(10) {
+	animation-delay: .45s;
+}
+.animate span:nth-of-type(11) {
+	animation-delay: .5s;
+}
+.animate span:nth-of-type(12) {
+	animation-delay: .55s;
+}
+.animate span:nth-of-type(13) {
+	animation-delay: .6s;
+}
+
+
+@keyframes ballDrop {
+	60% {
+		transform: translate(0, 20px) rotate(-180deg) scale(.5);
+	}
+
+	100% {
+		transform: translate(0) rotate(0deg) scale(1);
+		opacity: 1;
+	}
+}
